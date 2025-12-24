@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TL082CDR")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/TL082CDR.kicad_sym")(options "Added by schematic API")(descr ""))
+  (lib (name "CR0402-J_-3R9GLF")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/CR0402-J_-3R9GLF.kicad_sym")(options "Added by schematic API")(descr ""))
+  (lib (name "826629-2")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/826629-2.kicad_sym")(options "Added by schematic API")(descr ""))
+  (lib (name "3-102898-4")(type "KiCad")(uri "${KIPRJMOD}/kicad_api_libs/3-102898-4.kicad_sym")(options "Added by schematic API")(descr ""))
+)

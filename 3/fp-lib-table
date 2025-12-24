@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProPrj_FPC-NFC无源传感0.5_2025-11-22")(type "KiCad")(uri "$(KIPRJMOD)/ProPrj_FPC-NFC无源传感0.5_2025-11-22.pretty")(options "")(descr ""))
+)
